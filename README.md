@@ -7,7 +7,7 @@ It is a food app.Where you can choose from the menu ,order the food and get it d
 Git Address
 ```
 https://github.com/raomanasa/slowfood-october-2019.git
-
+```
 ## Setup Instructions
 Installation-
 ```
