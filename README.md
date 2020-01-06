@@ -1,24 +1,40 @@
-# README
+# Slow_food
+## The code
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+It is a food app.Where you can choose from the menu ,order the food and get it delivered. Restaurent owner can change the menu according to its availability.
 
-Things you may want to cover:
+## Setup-
+Git Address
+```
+https://github.com/raomanasa/slowfood-october-2019.git
 
-* Ruby version
+## Setup Instructions
+Installation-
+```
+$ gem install rails
+```
+Install all the new dependencies-
+```
+$ bundle install
+```
+RSpec generator to add the testing framework to your rails application-
+```
+$ bundle exec rails generate rspec:install
+```
+Bootstrap the application with Cucumber-
+```
+$ bundle exec rails generate cucumber:install
+```
+To run Cucumber -
+```
+ $ bundle exec cucumber
+```
 
-* System dependencies
+## Acknowledgements-
+For creating this we have used:
 
-* Configuration
+VS Code - Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-* Database creation
+GitHub - GitHub is an American company that provides hosting for software development version control using Git. (Owned by Microsoft)
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
